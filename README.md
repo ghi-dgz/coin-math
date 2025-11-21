@@ -8,10 +8,12 @@ ok yeah you get the point
 
 # conclusions
 
-f(x) = 2^(x+1)-2
-using calc (calcium)
-f'(x) = ln(2) * 2^(x+1)
-F(x) = 2^(x+1)/ln(2) - 2x + C
+f(x) = 2^(x+1)-2  
+using calc (calcium)  
+f'(x) = ln(2) * 2^(x+1)  
+F(x) = 2^(x+1)/ln(2) - 2x + C  
+
+--- 
 
 | heads | flips |
 | - | -   |
